@@ -31,6 +31,9 @@ Repository showcasing my **Cybersecurity Virtual Internship** experience, certif
 4. **Fundamentals of SOC (Security Operations Center)**  
    📄 [View Certificate](https://drive.google.com/file/d/1k2fAtG88ApDF3WKJErMLmBpXDEBZ_tDr/view?usp=drive_link)
 
+5. **Fundamentals of SOC**  
+   📄 [View Certificate](https://drive.google.com/file/d/1juYZTPDodZmyjw2CZpgn7DXhm1PYJ12r/view?usp=drive_link)
+
 ---
 
 ## 🤝 In Partnership With
