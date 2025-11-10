@@ -1,5 +1,6 @@
 # CYBERSECURITY-VIRTUAL-INTERNSHIP
-Repository showcasing my Cybersecurity Virtual Internship experience, certifications, and skills gained in network security, threat prevention, and secure system management — supported by APSCHE, EduSkills, and Palo Alto Networks.
+
+Repository showcasing my **Cybersecurity Virtual Internship** experience, certifications, and skills gained in network security, threat prevention, and secure system management — supported by **APSCHE, EduSkills, and Palo Alto Networks**.
 
 ---
 
@@ -13,6 +14,22 @@ Repository showcasing my Cybersecurity Virtual Internship experience, certificat
 **Awarded To:** **Kommineni Rekha Chowdary**
 
 📜 **[View Certificate](https://drive.google.com/file/d/1k3lB-Wjzt2V364zUn2xCrpHr7GdBhPES/view?usp=drive_link)**
+
+---
+
+## 🧩 Specialized Cybersecurity Certifications *(Issued by Beacon – by Palo Alto Networks)*
+
+1. **Fundamentals of Cloud Security**  
+   📄 [View Certificate](https://drive.google.com/file/d/1jj15_u5Sd5nt7rflnDkNLZWEumb0ax_H/view?usp=drive_link)
+
+2. **Fundamentals of Network Security**  
+   📄 [View Certificate](https://drive.google.com/file/d/1jo_44VJVKlf6SvGyzf9zMhy03kXiLxMW/view?usp=drive_link)
+
+3. **Introduction to Cybersecurity**  
+   📄 [View Certificate](https://drive.google.com/file/d/1jZEF6zFGmW51dInPJ359yyg4ituOaobu/view?usp=drive_link)
+
+4. **Fundamentals of SOC (Security Operations Center)**  
+   📄 [View Certificate](https://drive.google.com/file/d/1k2fAtG88ApDF3WKJErMLmBpXDEBZ_tDr/view?usp=drive_link)
 
 ---
 
