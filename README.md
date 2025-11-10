@@ -9,7 +9,7 @@ Repository showcasing my Cybersecurity Virtual Internship experience, certificat
 **Duration:** 10 Weeks (September – November 2022)  
 **Certified By:** APSCHE & EduSkills  
 **Supported By:** Palo Alto Networks  
-**Certificate ID:** 76801d8d6b0158d564c0768dd9b8615  
+**Certificate ID:** b7b801d8d6bb158d564c0768dd9b8615  
 **Awarded To:** **Kommineni Rekha Chowdary**
 
 📜 **[View Certificate](https://drive.google.com/file/d/1k3lB-Wjzt2V364zUn2xCrpHr7GdBhPES/view?usp=drive_link)**
